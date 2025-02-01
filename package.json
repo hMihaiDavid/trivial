@@ -1,0 +1,19 @@
+{
+  "name": "@hmihaidavid/trivial",
+  "version": "0.0.0",
+  "description": " Reserving name, WORK IN PROGRESS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hMihaiDavid/trivial.git"
+  },
+  "author": "Horia Mihai David",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hMihaiDavid/trivial/issues"
+  },
+  "homepage": "https://github.com/hMihaiDavid/trivial#readme"
+}
